@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blogpirate692.github.io/sitemap.xml
